@@ -645,7 +645,7 @@ border:none;
 background-image: url("../img/testem-bg.png");
 background-repeat: no-repeat;
 background-size: contain;
-padding: 15px;
+padding: 26px;
 font-size: 14px;
 line-height: 15px;
 font-style: Italic;
@@ -761,7 +761,7 @@ width: 88%;
 	.rightform textarea {
 		border:none;
 		border-bottom:1px solid grey;
-		padding:22px;
+		padding:32px;
 		font-family: 'Open Sans', sans-serif;
 		font-size:14px;
 	}
